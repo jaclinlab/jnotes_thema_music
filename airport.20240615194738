@@ -1,5 +1,6 @@
 ---
-track=Airport
+work=Airport
+type=track
 interpreters=|Motors
 ---
 

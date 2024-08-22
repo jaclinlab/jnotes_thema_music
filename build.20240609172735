@@ -1,5 +1,6 @@
 ---
-track=Build
+work=Build
+type=track
 interpreters=|Housemartins
 ---
 

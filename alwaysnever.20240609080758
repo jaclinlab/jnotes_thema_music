@@ -1,5 +1,6 @@
 ---
-track=Always / Never
+work=Always / Never
+type=track
 interpreters=|STRFKR
 ---
 
